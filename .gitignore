@@ -1,1 +1,3 @@
 .doc/
+.env
+node_modules/

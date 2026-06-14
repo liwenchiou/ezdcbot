@@ -1,0 +1,5 @@
+.doc/
+.env*
+.gitignore
+server.js
+client.js

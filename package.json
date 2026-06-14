@@ -1,0 +1,19 @@
+{
+  "name": "ezdcbot",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency Discord bot push library for Serverless and Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env server.js",
+    "test": "node --env-file=.env client.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "push",
+    "serverless",
+    "zero-dependency"
+  ],
+  "author": "Liwen Chiou",
+  "license": "MIT"
+}
