@@ -14,6 +14,14 @@
     "serverless",
     "zero-dependency"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwenchiou/ezdcbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liwenchiou/ezdcbot/issues"
+  },
+  "homepage": "https://github.com/liwenchiou/ezdcbot#readme",
   "author": "Liwen Chiou",
   "license": "MIT"
 }
