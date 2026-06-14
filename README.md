@@ -1,5 +1,11 @@
 # ezdcbot
 
+[![npm version](https://img.shields.io/npm/v/ezdcbot.svg?style=for-the-badge&color=cb3837)](https://www.npmjs.com/package/ezdcbot)
+[![npm downloads](https://img.shields.io/npm/dt/ezdcbot.svg?style=for-the-badge&color=blue)](https://www.npmjs.com/package/ezdcbot)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-success.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-orange.svg?style=for-the-badge)](https://www.npmjs.com/package/ezdcbot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 A lightweight, **zero-dependency** Discord bot push library for Serverless and Node.js.
 
 > 告別龐大且複雜的 `discord.js`，只需要短短幾行程式碼，就能輕鬆將訊息推播到指定的 Discord 頻道或討論串！非常適合用於 Serverless 平台 (Vercel, AWS Lambda) 或是簡單的事件通知腳本。
